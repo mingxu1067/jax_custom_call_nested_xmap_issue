@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: fake-custom-call-ext
+Version: 0.0.1
+Summary: 1
+Provides-Extra: test
